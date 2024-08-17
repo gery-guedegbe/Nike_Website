@@ -22,5 +22,5 @@ Bienvenue sur le dépôt GitHub du projet **Site Vitrine de Vente de Chaussures*
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git
+   git clone https://github.com/gery-guedegbe/Nike_Website.git
    ```
